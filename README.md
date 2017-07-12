@@ -1,7 +1,8 @@
-###这是一个使用aardio桌面开发工具开发的记录帐号密码的工具.使用命令行来查看密码、新建密码、修改密码，完全 开源
+
+##这是一个使用aardio桌面开发工具开发的记录帐号密码的工具.使用命令行来查看密码、新建密码、修改密码，完全 开源
  包括服务端&客户端
  
-? 为什么不推荐浏览器记录密码
+为什么不推荐浏览器记录密码
 
 1..浏览器记录密码》浏览器开发人员铁定可以看到你的密文，真心不安全，虽说浏览器开发者不会动你的帐号，但是能确保在被诱惑的情况下也能洁身自好吗。
 2.换个电脑还需要下载浏览器，动不动几十MB.
@@ -46,6 +47,26 @@
 
 >exit   #退出程序
 
+----
+
+Welcome to the PSW-Manager wiki!
+
+Here is introduce of PSW Manager! Pay attention please!
+
+Double click bin file which named Psw manager and then ,you will see the program runing like this.
+
+![](https://raw.githubusercontent.com/rhettli/PSW-Manager/master/pic/0.png)
+
+### 使用ls列出前10个帐号信息。
+![](https://raw.githubusercontent.com/rhettli/PSW-Manager/master/pic/1.png)
+
+![](https://raw.githubusercontent.com/rhettli/PSW-Manager/master/pic/2.png)
+
+### 显示详情
+![](https://raw.githubusercontent.com/rhettli/PSW-Manager/master/pic/3.png)
+
+### 进入修改编辑模式
+![](https://raw.githubusercontent.com/rhettli/PSW-Manager/master/pic/4.png)
 
 
 PS：这个软件完全免费，但是前提需要一个自己的服务器，安装数据库（mysql）来记录管理自己的帐号密码（已经全部加密，服务端拿到数据也没用）防抓包（数据传输也采用加密方式）
