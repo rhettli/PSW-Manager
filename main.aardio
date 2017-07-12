@@ -8,11 +8,11 @@ import time.ole;
 	
  locakTime=60;
  //myHttp='http://tool.cloudbooks.top/_pswmanager/_pswm.php';
- myHttp='http://tool.cloudbooks.top/_pswmanager/_pswmc.php';
+ myHttp='http://tool.cloudbooks.top/_pswmanager/_pswmc.php'; //数据提交地址，php服务器（就一个php文件）请在服务器上建好数据库
  maxVerifyTime=4000;//提交数据延时设置。
  loginsstatus=false;
  MLogin=true;
- enpsw='lyx_fhdj.+-sfhkjs'
+ enpsw='lyx_@###+-sfhkjs' //数据加密密文
  usrId='';
 
 
